@@ -11,6 +11,6 @@ public class quarkusbackend {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello RESTEasy";
+        return "Wow RESTEasy";
     }
 }
